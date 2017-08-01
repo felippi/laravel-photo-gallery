@@ -2,7 +2,7 @@
 
 namespace JeroenG\LaravelPhotoGallery\Contracts;
 
-use Album as Entity;
+use JeroenG\LaravelPhotoGallery\Models\Album as Entity;
 
 interface AlbumAdapter
 {
